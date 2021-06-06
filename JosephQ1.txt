@@ -1,0 +1,6 @@
+    Q1
+
+
+let bMI = (weight, height) => {
+            var bmiValue = Math.round(weight / (height * height));
+
